@@ -1,2 +1,3 @@
 # ip_generator
-Random ipv4 adress generator
+random ipv4 address generator c0ded in bash
+
