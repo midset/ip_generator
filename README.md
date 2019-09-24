@@ -9,3 +9,4 @@ chmod +x ip_gen.sh
 
 you will find the list in list.txt
 
+C0ntact : https://www.linkedin.com/in/abdelhamid-ben/
