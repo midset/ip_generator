@@ -1,6 +1,4 @@
 #!/bin/bash
-# Server Scanner and Joomla Exploiter (JCE)
-# Coded By : Mid Set  
 i=0
 for i in {1..1000} 
  do 
